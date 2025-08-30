@@ -52,6 +52,11 @@ nav a:hover {
     background-color: var(--primary-color);
 }
 
+nav a.active {
+    background-color: var(--primary-color);
+    font-weight: bold;
+}
+
 main {
     max-width: 800px;
     margin: 2rem auto;
