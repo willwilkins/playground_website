@@ -1,0 +1,9 @@
+playground_website/
+│
+├── index.html          # Home page
+├── about.html         # About page
+├── contact.html       # Contact page
+├── css/
+│   └── styles.css     # Shared stylesheet
+└── js/
+    └── main.js        # Shared JavaScript
